@@ -1,0 +1,12 @@
+1. "PowerCommand"
+2. "powerValue"
+3. "powerValue" accepts "On" or "Off"; these are converted to "PW" and "12" respectively
+4. The static part of the string is "23"
+
+1. "AlbumTitlePoll"
+2. This method accepts no arguments
+3. The static part of the string is "?al"
+
+1. "AlbumTitleUpdate"
+2. "albumTitleResponse"
+4. "albumTitleResponse" can be converted to any string up to 255 characters long

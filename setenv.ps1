@@ -1,0 +1,1 @@
+$env:LUA_INIT="@src\\setup.lua"
