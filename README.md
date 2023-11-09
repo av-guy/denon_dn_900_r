@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a communications module designed for the Denon DN 900R. The module is written in QSYS and is currently a work in progress. It is not recommended for use in its current state, as it may have incomplete or unstable functionality.
+This repository contains a communications module designed for the Denon DN 900R. The module is written in Lua and is currently a work in progress. It is not recommended for use in its current state, as it may have incomplete or unstable functionality.
 
 ## Purpose
 
@@ -39,9 +39,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Disclaimer
 
 This module is a work in progress, and it is not intended for production use in its current state. Use at your own risk.
-
----
-
-**Note:** Replace `yourusername` and `your-repository` in the URLs with your actual GitHub username and repository name.
-
-Thank you for your interest in this project! We appreciate your patience as we work to develop a robust communications module for the Denon DN 900R.
